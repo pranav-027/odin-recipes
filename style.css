@@ -3,9 +3,16 @@
     font-family: Verdana, Geneva, Tahoma, sans-serif;
 }
 h1{
+    color: #e7dac7;
     text-align: center;
-    font-weight: bold;
-    font-size: 60px;
+    width: 500px;
+    margin-left: auto;
+    margin-right: auto;
+    border: 12px double #937047;
+    background-color: #241f1c;
+    font-size: 36px;
+    font-weight: bolder;
+    font-weight: bolder;
 }
 img{
     display: block;
